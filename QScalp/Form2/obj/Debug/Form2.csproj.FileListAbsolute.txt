@@ -1,0 +1,2 @@
+D:\GithubNew\17\StockSharp\stocksharp-plug\1\QScalp\Form2\obj\Debug\Form2.csproj.AssemblyReference.cache
+D:\GithubNew\17\StockSharp\stocksharp-plug\1\QScalp\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
